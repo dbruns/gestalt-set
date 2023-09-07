@@ -6,7 +6,7 @@ This repository introduces the concept of a 'Gestalt Set'—a theoretical expans
 
 ## Motivation
 
-My name is Daniel, a name I bear with reverence, inspired by its Hebrew meaning "God is my judge". This exploration represents a unique spiritual and intellectual journey, where faith and mathematical exploration intertwine. The concept of a 'Gestalt Set' has been led by a desire to expand traditional set theory to account for systems that exhibit functions or behaviors their individual components cannot achieve independently.
+The concept of a 'Gestalt Set' has been led by a desire to expand traditional set theory to account for systems that exhibit functions or behaviors their individual components cannot achieve independently.
 
 ## Background on Set Theory
 
