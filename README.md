@@ -32,7 +32,3 @@ The axiom of the 'Gestalt Set' is defined as follows:
 This concept appears to broaden traditional set theory, leaning towards a more comprehensive formal systems theory or computability theory. It might offer fresh perspectives for understanding complex systems in nature, technology, and society.
 
 Importantly, the 'Gestalt Set' could serve as a fascinating metaphor for various theological concepts. The principle of the whole being greater than the sum of its parts echoes the profound unity and complexity found in theological constructs. This exploration has deepened my awe for our Creator and the intricate beauty of His creation.
-
-## License
-
-This project is unlicensed. The ideas contained within are interpretations of spiritual revelations and as such, I do not believe I'm in a position to dictate what can or cannot be done with this information. Use it as you see fit, in a manner that is good and beneficial to all.
